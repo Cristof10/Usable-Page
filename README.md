@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` para tu aplicación web "Libretas ReciclArte":
-
----
 
 # Libretas ReciclArte
 
@@ -26,17 +23,6 @@ Libretas ReciclArte es una página web diseñada para promover un emprendimiento
 
 El sitio web está diseñado teniendo en cuenta la accesibilidad, con soporte para navegación mediante teclado (`tabindex`) y descripciones que pueden ser leídas por screenreaders (`aria-label` y `aria-describedby`).
 
-## Cómo Usar
-
-1. **Clonar el Repositorio**:
-    ```bash
-    git clone https://github.com/tu-usuario/libretas-reciclarte.git
-    ```
-2. **Abrir el Proyecto**:
-    - Navega a la carpeta del proyecto y abre `index.html` en tu navegador web.
-3. **Personalizar**:
-    - Puedes personalizar las imágenes y el contenido textual editando los archivos HTML y CSS.
-
-## Autores
+## Autor
 | [<img src="https://avatars.githubusercontent.com/u/151577243?v=4" width=115><br><sub>Cristofer Paucar</sub>](https://github.com/Cristof10) | 
 | :---: |
